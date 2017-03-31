@@ -7,9 +7,6 @@ import Simditor from 'simditor';
 
 import 'simditor/styles/simditor.css';
 
-import CSSModule from 'react-css-modules';
-import styles from './SimEditor.less';
-
 class SimEditor extends React.Component {
 
   constructor(props) {
